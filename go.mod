@@ -1,4 +1,4 @@
-module github.com/brendan-ward/mbtiles-go
+module github.com/salsowelim/mbtiles-go
 
 go 1.17
 
